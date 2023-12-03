@@ -1,4 +1,4 @@
 # OIBSIP-TRIBUTE-PAGE
 
 # Preview 
-https://oibsip-tribute-page-iota.vercel.app/
+https://deepbhakare.github.io/OIBSIP-TRIBUTE-PAGE/
